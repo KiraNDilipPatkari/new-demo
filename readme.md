@@ -1,4 +1,3 @@
-Author - Daksh Gehlot
-CODING CLUB NMIMS X GDSC RCPIT
+My First Demo
 
 Kiran Dilip Patkari
